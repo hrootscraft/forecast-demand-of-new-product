@@ -6,6 +6,9 @@ Let's say Ralph Lauren plans on releasing 100 new styles, and they want to forec
 1. What kind of data should they collect? 
 2. How would you predict the demand of a new style?
 3. How to gain credibility?
-4. How to tackle explainability?
+4. How to tackle explainability of these ML models?
+5. How would you evaluate the performance of these models?
 
 All of these questions are answered in the PDF file which contains the solution reached upon employing first principles thinking.
+
+Happy Reading!
