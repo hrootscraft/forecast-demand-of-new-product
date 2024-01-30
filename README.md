@@ -12,3 +12,4 @@ Let's say Ralph Lauren plans on releasing 100 new styles, and they want to forec
 All of these questions are answered in the PDF file which contains the solution reached upon employing first principles thinking.
 
 Happy Reading!
+ 
